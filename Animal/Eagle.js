@@ -1,12 +1,9 @@
 import {Animal} from './Animal'
-
+import {Fly} from './Fly'
 export class Eagle{
     constructor(){
         super("Eagle")
     }
-    fly(){
-        console.log(`${this.name}   flies`)
-    }
 }
 const eagle = new Eagle()
-eagle.fly()
+eagle.Fly()

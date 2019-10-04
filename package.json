@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/tatev-avalyan/Animals.git"
   },
-  
-  "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+  "devDependencies": {},
+  "dependencies": {
+    "parcel": "^1.12.3"
   }
 }

@@ -9,5 +9,4 @@ export class Animal {
       console.log('breathe')
     }
   
-  }
-  
+}
